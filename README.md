@@ -3,14 +3,19 @@
 ### Hi there 👋
 
 - 🔭 I'm currently studying Computer Engineering
-- 🌱 I’m currently learning Node.js 
-- 📍  I'm a Brazilian student
+- 🌱 I’m currently learning Node.js with TypeScript
+- 📍 I'm a Brazilian student
+- 👯 I’m looking to collaborate on software development projects
+- 🤔 I’m looking for help with egress on technology career
+- 📫 How to reach me: andradearthurf@gmail.com
 
 <div align="center">
   <a href="https://github.com/andradearthurf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradearthurf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+### Tech knowledge
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
