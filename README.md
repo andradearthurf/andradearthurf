@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently studying Computer Engineering
-- 🌱 I’m currently learning Node.js with TypeScript
+- 🌱 I’m currently learning and Data Science with Python
 - 📍 I'm a Brazilian student
 - 👯 I’m looking to collaborate on software development projects
 - 🤔 I’m looking for help with egress on technology career
