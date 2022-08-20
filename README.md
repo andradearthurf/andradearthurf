@@ -1,13 +1,12 @@
 ##
 
-### Hi there 👋
+### Hi there! 👋
 
-- 🔭 I'm currently studying Computer Engineering
+- 🔭 I'm currently studying Computer Engineering at Universidade Federal do Espírito Santo
 - 🌱 I’m currently learning Data Science with Python and Back-end with NodeJs
 - 📍 I'm a Brazilian student
-- 👯 I’m looking to collaborate on software development projects
-- 🤔 I’m looking for help with egress on technology career
-- 📫 How to reach me: andradearthurf@gmail.com
+- 🤝 I'm looking to collaborate on software development and data science projects
+- 🤔 I’m looking for an intern opportunity in technology area
 
 <div align="center">
   <a href="https://github.com/andradearthurf">
@@ -15,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Tech knowledge
+### 💻 Tech knowledge
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +29,10 @@
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##
+  ### 📫 How to reach me:
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andradearthurf@gmail.com)](mailto:andradearthurf@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/andradearthurf/)](https://www.instagram.com/andradearthurf/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-de-andrade-ferreira-224551249/)](https://www.linkedin.com/in/arthur-de-andrade-ferreira-224551249/)
+  
   
  
