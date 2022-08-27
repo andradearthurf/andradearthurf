@@ -46,6 +46,6 @@
   
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a5ff&height=180&section=header&text=&fontSize=30&fontColor=58a5ff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a5ff&height=160&section=header&text=&fontSize=30&fontColor=58a5ff&animation=twinkling&fontAlignY=35"/> 
 
  
