@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=58a5ff&height=130&section=header&text=&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"
 />&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a5ff6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+de+Andrade+Ferreira;Welcome+to+my+GitHub+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a5ff6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur!;Welcome+to+my+GitHub+:%29)](https://git.io/typing-svg)&nbsp;
 
 ## About me! 👋
 
