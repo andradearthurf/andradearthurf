@@ -20,7 +20,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>&nbsp;
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=andradearthurf&theme=github-dark&hide_border=true&area=true&color=ffffff)&nbsp;
 
 ## 💻 Tech knowledge
   
