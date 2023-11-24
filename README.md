@@ -15,10 +15,11 @@
 ## ⚙️ GitHub Analytics
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andradearthurf&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=58a5ff&text_color=c9d1d9&bg_color=0d1117" alt="Arthur de Andrade Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
-</div>&nbsp;
+<div align="center">
+  <a href="https://github.com/andradearthurf">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andradearthurf&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 ## 💻 Tech knowledge
