@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/andradearthurf">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andradearthurf&show_icons=true&theme=transparent&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andradearthurf&show_icons=true&theme=onedark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andradearthurf&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 
