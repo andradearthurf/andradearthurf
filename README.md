@@ -6,11 +6,10 @@
 
 ## About me! 👋
 
-- 🔭 I'm currently studying Computer Engineering at Universidade Federal do Espírito Santo
+- 🔭 I hold a degree in Computer Engineering from the Federal University of Espírito Santo
 - 🌱 I’m currently learning Data Science with Python and Back-end with NodeJs
-- 📍 I'm a Brazilian student
-- 🤝 I'm looking to collaborate on software development and data science projects
-- 🤔 I’m looking for an intern opportunity in technology area
+- 💼 Backend Developer at @UpperSoft
+- 📌 Brazilian student
 
 ## ⚙️ GitHub Analytics
 
