@@ -7,8 +7,8 @@
 ## About me! 👋
 
 - 🔭 I hold a degree in Computer Engineering from the Federal University of Espírito Santo
-- 🌱 I’m currently learning Data Science with Python and Back-end with NodeJs
-- 💼 Backend Developer at @UpperSoft
+- 🌱 I’m currently learning Data Science with Python and Backend with NodeJs
+- 💼 Backend Developer at <a href="https://upcities.app/">UpCities</a>
 - 📌 Brazilian student
 
 ## ⚙️ GitHub Analytics
