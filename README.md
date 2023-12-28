@@ -6,7 +6,7 @@
 
 ## About me! 👋
 
-- 🔭 I hold a degree in Computer Engineering from the Federal University of Espírito Santo
+- 🔭 I hold a degree in Computer Engineering from the Universidade Federal do Espírito Santo
 - 🌱 I’m currently learning Data Science with Python and Backend with NodeJs
 - 💼 Backend Developer at <a href="https://upcities.app/">UpCities</a>
 - 📌 Brazilian student
