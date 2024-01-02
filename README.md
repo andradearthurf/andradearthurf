@@ -8,6 +8,7 @@
 
 - 🔭 I hold a degree in Computer Engineering from the Universidade Federal do Espírito Santo
 - 🌱 I’m currently learning Data Science with Python and Backend with NodeJs
+- 🏊‍♂️ Diving into Artificial Neural Networks with  <a href="https://www.tensorflow.org/?hl=pt-br">TensorFlow</a> and  <a href="https://github.com/optuna/optuna">Optuna</a> for hyperparameter optimization
 - 📚 Full stack development student
 - 📌 Brazilian student
 
@@ -34,6 +35,7 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+    <img align="center" alt="Arthur-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Arthur-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Arthur-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
