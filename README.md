@@ -2,13 +2,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=58a5ff&height=130&section=header&text=&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"
 />&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a5ff6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur!;Welcome+to+my+GitHub+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a5ff6&size=35&center=true&vCenter=true&width=1000&lines=Hello+there!;Welcome+to+my+GitHub+:%29)](https://git.io/typing-svg)&nbsp;
 
 ## About me! 👋
 
 - 🔭 I hold a degree in Computer Engineering from the Universidade Federal do Espírito Santo
 - 🌱 I’m currently learning Data Science with Python and Backend with NodeJs
-- 💼 Backend Developer at <a href="https://upcities.app/">UpCities</a>
+- 📚 Full stack development student
 - 📌 Brazilian student
 
 ## ⚙️ GitHub Analytics
@@ -28,6 +28,7 @@
   <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Arthur-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Arthur-postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+     <img align="center" alt="Arthur-postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
